@@ -5,7 +5,7 @@ public class ArrayAddition {
 	
 		public static void main(String[] args) {
 			Scanner sc = new Scanner(System.in);
-			System.out.println("Enter the size of first array ");
+			System.out.println("Enter the size of first array !/");
 			int first = sc.nextInt();
 			int arr1[] = new int[first];
 			System.out.println("Enter the elements for first array");
